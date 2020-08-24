@@ -1,0 +1,14 @@
+reacstrap kuruldu
+bootstrap gelmediği için bootstrap kuruldu.
+bootstrap index.jsde importlandı.
+
+npm install -g json-server indirildi.
+json-server --watch db.json ile api ile bağlantı kuruldu.
+--watch yaparken jsonın olduğu dosya konumunda yapmak gerekiyor.
+
+npm install alertifyjs ile alertifyjs indirildi.
+alertify index.js de importlandı.
+
+npm install react-router-dom indirildi.
+index.jsde tanımlandı.
+index.jsdeki reactDOM içindeki <App> <browserRoutuer> içine alındı.
